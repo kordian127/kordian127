@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+It's my readme ;)
 <!--
 **kordian127/kordian127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
